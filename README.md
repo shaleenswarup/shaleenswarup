@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Shaleen
 - 👀 I’m interested in data science and machine learning and almost everything that involves problem solving.
 - 📫 How to reach me (shaleenswarup@gmail.com)
+- Medium - https://shaleenswarup.medium.com/
 
 <!---
 shaleenswarup/shaleenswarup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
